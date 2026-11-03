@@ -189,15 +189,10 @@ Contribuições são muito bem-vindas! 💕
 
 ---
 
-## 📄 Licença
-
-Distribuído sob a licença **MIT**. Veja o arquivo `LICENSE` para mais informações.
-
----
 
 <div align="center">
 
-<img src="images/patixa.png" alt="Patixa Teló" width="420">
+
 
 ### 👑 Rainha do Amazonas 👑
 
