@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/34338027/README.md)
+[README (1).md](https://github.com/user-attachments/files/34338076/README.1.md)
 <div align="center">
 
 # 🎀👑 Quiz da Patixa Teló 👑🎀
@@ -196,6 +196,17 @@ Distribuído sob a licença **MIT**. Veja o arquivo `LICENSE` para mais informa�
 ---
 
 <div align="center">
+
+<img src="images/patixa.png" alt="Patixa Teló" width="420">
+
+### 👑 Rainha do Amazonas 👑
+
+---
+
+## 👩‍💻 Feito por
+
+**Ana Clara** • **Isabela** • **Isabelli**
+🎓 3º ano J de Informática
 
 Feito com 💖 e muito rosa
 **Quiz da Patixa Teló** • Projeto de fã, não oficial
